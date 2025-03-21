@@ -1,4 +1,4 @@
-# Rustpotter
+# Rustpotter (This is a patch that improves the operation and assembly of the module)
 
 ## An open source wakeword spotter forged in rust.
 
